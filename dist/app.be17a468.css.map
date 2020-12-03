@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,OACI,aAAc,CACd,WACJ","file":"app.be17a468.css","sourceRoot":"..\\src","sourcesContent":["canvas {\r\n    display: block;\r\n    margin: auto;\r\n}\r\n"]}
