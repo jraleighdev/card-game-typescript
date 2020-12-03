@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a96ab6b5-b448-4ccc-bf6a-45537cb9d1b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/font/pressstart.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/font/pressstart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/armor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/dead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/deathknight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/firedrake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/goldendragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/healingpotion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/kobold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ogre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/paladin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/playercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/restartbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/troll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/cardData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/cardTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/gameImages.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/base/CardBase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/base/CardDraggable.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/grid/CardGrid.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/grid/Grid.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/helpers/ButtonRestart.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/player/CardPlayer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/MainScene.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kyZTjNYthR89zZzsikapsgpQnZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\Projects\javascript\card-game-typescript\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\javascript\card-game-typescript\src\models\base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localhost:8000">
+    <configuration name="localhost:8000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8000">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:8000" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a96ab6b5-b448-4ccc-bf6a-45537cb9d1b2" name="Default Changelist" comment="" />
+      <created>1606674802424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606674802424</updated>
+      <workItem from="1606674804109" duration="639000" />
+      <workItem from="1606675444895" duration="255000" />
+      <workItem from="1606675715263" duration="8178000" />
+      <workItem from="1606776209856" duration="117000" />
+      <workItem from="1606776338050" duration="50000" />
+      <workItem from="1606776398169" duration="38000" />
+      <workItem from="1606776571846" duration="171000" />
+      <workItem from="1606776760935" duration="10000" />
+      <workItem from="1606776843606" duration="10000" />
+      <workItem from="1606776903978" duration="22000" />
+      <workItem from="1606776937646" duration="10000" />
+      <workItem from="1606776980488" duration="27000" />
+      <workItem from="1606777015646" duration="4000" />
+      <workItem from="1606777055906" duration="259000" />
+      <workItem from="1606777719784" duration="163000" />
+      <workItem from="1606777900380" duration="18000" />
+      <workItem from="1606777927195" duration="4160000" />
+      <workItem from="1606782435240" duration="7213000" />
+      <workItem from="1606867058871" duration="4502000" />
+      <workItem from="1606885373009" duration="4102000" />
+      <workItem from="1606889730324" duration="1660000" />
+      <workItem from="1606949693602" duration="19000" />
+      <workItem from="1606964671134" duration="510000" />
+      <workItem from="1606965349853" duration="120000" />
+      <workItem from="1606965479846" duration="92000" />
+      <workItem from="1606965584128" duration="101000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1606781593337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606781593337</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished up">
+      <created>1606889358981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606889358981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added meta data">
+      <created>1606891062181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606891062181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="a">
+      <created>1606964951158</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606964951158</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Finished up" />
+    <MESSAGE value="Added meta data" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+</project>
