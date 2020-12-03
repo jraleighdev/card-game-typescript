@@ -29,4 +29,4 @@ var t,e=require("process"),i=arguments[3];!function(e,i){"object"==typeof export
 },{"phaser":"E66h","~/enums/gameImages":"v20N","~/models/player/CardPlayer":"OhAI","~/models/grid/Grid":"EcyD","~/enums/cardTypes":"uYAT","~/models/helpers/ButtonRestart":"FfDp"}],"ZCfc":[function(require,module,exports) {
 "use strict";var e=r(require("./scenes/MainScene"));function r(e){return e&&e.__esModule?e:{default:e}}var a={width:640,height:1024,backgroundColor:"#333333",type:Phaser.AUTO,parent:"phaser-game",scene:[e.default]};new Phaser.Game(a);
 },{"./scenes/MainScene":"liDP"}]},{},["ZCfc"], null)
-//# sourceMappingURL=/main.0c6df3b1.js.map
+//# sourceMappingURL=main.0c6df3b1.js.map
