@@ -20,44 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a96ab6b5-b448-4ccc-bf6a-45537cb9d1b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/pressstart.fnt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/pressstart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/armor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/deathknight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/firedrake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/goldendragon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/healingpotion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/kobold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ogre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/paladin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/playercard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/restartbutton.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/troll.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/cardData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/cardTypes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/gameImages.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/base/CardBase.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/base/CardDraggable.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/grid/CardGrid.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/grid/Grid.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/helpers/ButtonRestart.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/player/CardPlayer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/MainScene.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
